@@ -1,0 +1,4 @@
+CREATE out
+MERGETEXTUREDIR out textures TEXTURE2
+SAVE out dist/out.wad
+END
